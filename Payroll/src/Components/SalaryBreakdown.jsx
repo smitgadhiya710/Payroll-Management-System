@@ -9,7 +9,7 @@ const SalaryBreakdown = ({ salary, savings, shopping, homeexpensis, emergency })
         <p>Salary: <span className='text-gray-800'>{salary} Rs</span></p>
         <p>Savings: <span className='text-gray-800'>{savings} Rs</span></p>
         <p>Shopping: <span className='text-gray-800'>{shopping} Rs</span></p>
-        <p>Home Expenses: <span className='text-gray-800'>{homeexpensis} Rs</span></p>
+        <p>Home Expensis: <span className='text-gray-800'>{homeexpensis} Rs</span></p>
         <p>Emergency: <span className='text-gray-800'>{emergency} Rs</span></p>
       </div>
     </div>
